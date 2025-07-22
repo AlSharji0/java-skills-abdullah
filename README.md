@@ -1,7 +1,18 @@
 # java-skills-abdullah
-To view each task refer to their branch.
+Arrays of strings exercises.
 
-Each branch's readme file contains project description & testing intructions. 
+Methods made:
+- Count words
+- Replace words
+- find failing students
+- get letter grades
+- reverse student names
 
-**Cloning instructions:** 
-+ git clone https://github.com/AlSharji0/java-skills-abdullah.git
+**Compile Commands:**
+1) git checkout feature/arrays-strings
+2) cd src
+3) javac *.java
+4) java GradeManager
+5) java TextProcessor
+
+**Author: Abdullah Al Sharji**
