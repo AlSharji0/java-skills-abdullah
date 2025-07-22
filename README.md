@@ -1,7 +1,11 @@
 # java-skills-abdullah
-To view each task refer to their branch.
+Made parent class boon and textbook which inherits from it and overrides the displayer. Included a borrow and return system for the books.
 
-Each branch's readme file contains project description & testing intructions. 
+Compile Commands:
+1) git checkout feature/oop-practice
+2) cd src
+3) javac *.java
+4) java Library
+5) java VisitorCounter
 
-**Cloning instructions:** 
-+ git clone https://github.com/AlSharji0/java-skills-abdullah.git
+**Author: Abdullah Al Sharji**
