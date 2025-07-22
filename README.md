@@ -1,7 +1,10 @@
 # java-skills-abdullah
-To view each task refer to their branch.
+Problem solving exercises regarding customer discounting based on their membership, and printing patterns.
 
-Each branch's readme file contains project description & testing intructions. 
+Compile Commands:
+1) git checkout feature/problem-solving
+2) javac *.java
+3) java PatternMaker
+4) Java ShoppingCart
 
-**Cloning instructions:** 
-+ git clone https://github.com/AlSharji0/java-skills-abdullah.git
+**Author: Abdullah Al Sharji**
